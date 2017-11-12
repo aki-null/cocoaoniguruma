@@ -45,7 +45,7 @@ Thanks to Matz.
 
 ## License
 
-CocoaOniguruma contains a part of Oniguruma 5.9.2 source code currently.
+CocoaOniguruma contains a part of Oniguruma 6.6.1 source code currently.
 See also the Oniguruma's COPYING file.
 
 <pre>

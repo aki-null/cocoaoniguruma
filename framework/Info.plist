@@ -9,7 +9,7 @@
 	<key>CFBundleGetInfoString</key>
 	<string>Objective-C wrapper for the Oniguruma regular expression library.</string>
 	<key>CFBundleIdentifier</key>
-	<string>net.limechat.CocoaOniguruma</string>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
